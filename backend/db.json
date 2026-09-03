@@ -2,7 +2,7 @@
   "opinions": [
     {
       "id": 1788447746165,
-      "votes": 0,
+      "votes": 1,
       "userName": "maximillan",
       "title": "Form Actions are new!",
       "body": "A new feature added by react 19."
@@ -19,7 +19,7 @@
       "userName": "Maximilian Schwarzmüller",
       "title": "Do yourself a favor and learn React!",
       "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
-      "votes": 0
+      "votes": 1
     },
     {
       "id": 2,
