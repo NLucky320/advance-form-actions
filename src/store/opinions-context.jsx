@@ -1,6 +1,6 @@
 import { createContext, useEffect, useState } from 'react';
 
-export const OpinionsContext = createContext({
+export  const OpinionsContext = createContext({
   opinions: null,
   addOpinion: (opinion) => {},
   upvoteOpinion: (id) => {},
